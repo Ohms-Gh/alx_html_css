@@ -23,7 +23,7 @@ We use **semantic HTML**, **flexbox**, **grid**, and other CSS techniques to cre
 ## Design Reference
 
 This project is based on a Figma design available here:  
-🔗 [Homepage -- Copy (Figma)](https://www.figma.com/design/ncB7W0XmHiPc5Q1h26AVfR/Homepage--Copy-?node-id=3558-0&t=Zu3X07G47h30UBtQ-0)
+🔗 [Homepage -- Copy (Figma)](https://www.figma.com/design/3Ff7lQ30TmSTtxEYG2PAVX/Homepage?node-id=3558-0&t=zfIIhzpUCDI2GLp4-0)
 
 ---
 
