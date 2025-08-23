@@ -43,5 +43,3 @@ The main goal is to implement a pixel-perfect, fully responsive webpage that ada
   - Hover/Active: `opacity: 0.9`  
 
 ---
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
